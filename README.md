@@ -1,15 +1,9 @@
-### SCRIPT CLONE OLD
- pkg update
- pkg upgrade
- pkg install python
- pkg install git 
- pkg install python-pip 
- pip install bs4
- pip install mechanize
- pip install requests
- pip install rich 
- rm -rf OLD-CRACK
- git clone https://github.com/RONII-404/OLD
- cd OLD-CRACK
- python Old.py
-### FREE NOT PREM
+### Perintah Termux :
+    $ apt update -y && apt upgrade -y
+    $ pkg install git
+    $ pkg install python3
+    $ git clone https://github.com/RONI-404/FB-LIKER
+    $ cd FB-LIKER
+    $ pip3 install -r requirements.txt
+    $ python3 Run.py
+### Free Not Prem
